@@ -2,14 +2,14 @@
   "redirects": {
     "US": {
       "links": [
-        "ttps://t.co/qwMwiFAFCb",
+        "https://t.co/qwMwiFAFCb",
         "https://t.co/L0L6FvQMnX"
       ],
       "percentages": [30, 70]
     },
     "CA": {
       "links": [
-        "ttps://t.co/qwMwiFAFCb",
+        "https://t.co/qwMwiFAFCb",
         "https://t.co/L0L6FvQMnX"
       ],
       "percentages": [30, 70]
@@ -65,4 +65,5 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
 
