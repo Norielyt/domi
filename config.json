@@ -3,7 +3,7 @@
     "US": {
       "links": [
         "https://boap.it/adsense/",
-        "https://t.co/L0L6FvQMnX"
+        "https://boap.it/adsense/"
       ],
       "percentages": [30, 70]
     },
@@ -65,6 +65,7 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
 
 
 
