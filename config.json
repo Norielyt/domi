@@ -2,8 +2,8 @@
   "redirects": {
     "US": {
       "links": [
-        "https://boap.it/adsense/",
-        "https://boap.it/adsense/"
+        "https://t.co/qwMwiFAFCb",
+        "https://t.co/qwMwiFAFCb"
       ],
       "percentages": [30, 70]
     },
@@ -65,6 +65,7 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
 
 
 
